@@ -1,0 +1,15 @@
+E:\Projects\Vb.Net\EmailSpam\EmailSpam\bin\Debug\EmailSpam.exe.config
+E:\Projects\Vb.Net\EmailSpam\EmailSpam\bin\Debug\EmailSpam.exe
+E:\Projects\Vb.Net\EmailSpam\EmailSpam\bin\Debug\EmailSpam.pdb
+E:\Projects\Vb.Net\EmailSpam\EmailSpam\bin\Debug\EmailSpam.xml
+E:\Projects\Vb.Net\EmailSpam\EmailSpam\obj\Debug\EmailSpam.vbprojResolveAssemblyReference.cache
+E:\Projects\Vb.Net\EmailSpam\EmailSpam\obj\Debug\EmailSpam.Form1.resources
+E:\Projects\Vb.Net\EmailSpam\EmailSpam\obj\Debug\EmailSpam.Resources.resources
+E:\Projects\Vb.Net\EmailSpam\EmailSpam\obj\Debug\EmailSpam.vbproj.GenerateResource.Cache
+E:\Projects\Vb.Net\EmailSpam\EmailSpam\obj\Debug\EmailSpam.exe
+E:\Projects\Vb.Net\EmailSpam\EmailSpam\obj\Debug\EmailSpam.xml
+E:\Projects\Vb.Net\EmailSpam\EmailSpam\obj\Debug\EmailSpam.pdb
+G:\CloudStation\Projects\Vb.Net\EmailSpam\EmailSpam\bin\Debug\EmailSpam.exe.config
+G:\CloudStation\Projects\Vb.Net\EmailSpam\EmailSpam\obj\Debug\EmailSpam.exe
+G:\CloudStation\Projects\Vb.Net\EmailSpam\EmailSpam\obj\Debug\EmailSpam.xml
+G:\CloudStation\Projects\Vb.Net\EmailSpam\EmailSpam\obj\Debug\EmailSpam.pdb
